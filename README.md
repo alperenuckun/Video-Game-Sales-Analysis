@@ -23,5 +23,3 @@ Download the project files and run `video_game_sales_analysis.py` to generate th
 ## Contributions
 If you have any suggestions or improvements, feel free to create a pull request.
 
-## License
-MIT License
